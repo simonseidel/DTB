@@ -23,9 +23,9 @@
 
 ## Download:
 * zcmd by Zeex - https://pastebin.com/SbJc7iXa
-* sscanf by Y_Less - https://github.com/maddinat0r/sscanf/releases/tag/v2.8.2
+* sscanf by Y_Less - https://github.com/Y_Less/sscanf/releases/tag/v2.8.2
 * Whirlpool by Y_Less - https://github.com/Southclaws/samp-whirlpool
 * GeoIP by Whitetiger - https://github.com/Whitetigerswt/SAMP-geoip
-* MySQL by BlueG - https://github.com/pBlueG/SA-MP-MySQL/tree/master/src
+* MySQL by BlueG - https://github.com/pBlueG/SA-MP-MySQL/tree/master
 * IRC by Incognito - [v1.4.7 SSL](https://github.com/samp-incognito/samp-irc-plugin/releases/tag/v1.4.7-ssl) / [v1.4.7 Non-SSL](https://github.com/samp-incognito/samp-irc-plugin/releases/tag/v1.4.7-non-ssl)
-* Defend The Bombsite - https://github.com/fusez/DTB
+* Defend The Bombsite - https://github.com/simonseidel/DTB
