@@ -23,7 +23,7 @@
 
 ## Download:
 * zcmd by Zeex - https://pastebin.com/SbJc7iXa OR https://github.com/Southclaws/zcmd OR https://github.com/simonseidel/zcmd
-* sscanf by Y_Less - https://github.com/Y_Less/sscanf/releases/tag/v2.8.2
+* sscanf by Y_Less - https://github.com/Y-Less/sscanf/releases/tag/v2.8.2
 * Whirlpool by Y_Less - https://github.com/Southclaws/samp-whirlpool
 * GeoIP by Whitetiger - https://github.com/Whitetigerswt/SAMP-geoip
 * MySQL by BlueG - https://github.com/pBlueG/SA-MP-MySQL/tree/master
